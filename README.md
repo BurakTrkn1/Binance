@@ -1,2 +1,1 @@
-# Binance
-Döviz al sat
+
